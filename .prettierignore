@@ -1,0 +1,7 @@
+node_modules
+dist
+artifacts
+package-lock.json
+public/art
+.npm-cache
+.tools
